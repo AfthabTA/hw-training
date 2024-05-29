@@ -36,7 +36,7 @@ class EmployeeTaskLog:
     def log_out(self):
 
         self.logout_time =  datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-        print(self.main_task_list)
+        
         employee.json_out()
 
     def json_out(self):
@@ -46,13 +46,14 @@ class EmployeeTaskLog:
             "emp_id":self.employee_id,
             "login_time":self.login_time,
             "logout_time":self.logout_time,
-            "tasks":self.task,
+            "tasks":self.main_task_list,
 
         }
-        file_name = datetime.date.today()+self.employee_name+".json"
+        file_name = datetime.date.today().strftime("%Y-%m-%d")+'_'+self.employee_name+".json"
         print(file_name)
-        # with open(file_name, 'w') as json_file:
-        #     json.dumps(employee_log, json_file, indent=4)
+        with open(file_name, 'w') as json_file:
+            json.dump(employee_log, json_file, indent=4)
+        print(self.main_task_list)    
    
 
     def interface(self):
