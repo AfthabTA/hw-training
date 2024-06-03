@@ -1,0 +1,22 @@
+{
+    "emp_name": "Afthab",
+    "emp_id": 1,
+    "login_time": "2024-06-02 20:26",
+    "logout_time": "2024-06-02 20:26",
+    "tasks": [
+        {
+            "task_title": "task 1",
+            "task_description": "description 1",
+            "start_time": "2024-06-02 20:26",
+            "end_time": "2024-06-02 20:26",
+            "task_success": true
+        },
+        {
+            "task_title": "task 2",
+            "task_description": "description 2",
+            "start_time": "2024-06-02 20:26",
+            "end_time": "2024-06-02 20:26",
+            "task_success": true
+        }
+    ]
+}

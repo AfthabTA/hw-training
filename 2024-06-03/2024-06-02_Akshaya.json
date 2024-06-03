@@ -1,0 +1,29 @@
+{
+    "emp_name": "Akshaya",
+    "emp_id": 2,
+    "login_time": "2024-06-02 22:21",
+    "logout_time": "2024-06-02 22:22",
+    "tasks": [
+        {
+            "task_title": "task 1",
+            "task_description": "decription of task 1",
+            "start_time": "2024-06-02 22:21",
+            "end_time": "2024-06-02 22:21",
+            "task_success": true
+        },
+        {
+            "task_title": "task 2",
+            "task_description": "description of task 2",
+            "start_time": "2024-06-02 22:22",
+            "end_time": "2024-06-02 22:22",
+            "task_success": true
+        },
+        {
+            "task_title": "task 3",
+            "task_description": "description of task 3",
+            "start_time": "2024-06-02 22:22",
+            "end_time": "2024-06-02 22:22",
+            "task_success": true
+        }
+    ]
+}
