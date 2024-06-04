@@ -1,0 +1,19 @@
+studied topics
+Browser analysis 
+
+    Inspect - Tabs
+    GET & POST request
+    PUT, DELETE, HEAD, PATCH, OPTIONS
+    Inspect AJAX loaded URLs
+    Client side javascript execution
+    Request and response headers
+    Cookie, session
+    User-agent
+revised topics indexing and timestamp(mongodb)
+Familiarize common python packages and usages  
+
+    requests 
+    parsel 
+    re 
+    json 
+    csv 
