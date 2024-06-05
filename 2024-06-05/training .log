@@ -1,0 +1,18 @@
+studied topics
+    requests 
+    parsel 
+    re 
+    json 
+    csv 
+    pymongo 
+    scrapy 
+        Request
+        FormRequest
+        Response
+        Shell, inspect_response
+        Selector
+    selenium 
+    ast
+    datetime
+    urllib
+    time
