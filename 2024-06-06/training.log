@@ -1,0 +1,32 @@
+studied topics
+Familiarize common python packages and usages  
+    requests 
+    parsel 
+    re 
+    json 
+    csv 
+    pymongo 
+    scrapy 
+        Request
+        FormRequest
+        Response
+        Shell, inspect_response
+        Selector
+    selenium 
+    playwright 
+    pika 
+    logging 
+    datetime
+    urllib
+    time
+    xml
+    lxml
+    base64 
+    os
+    random
+    ftplib
+    dropbox
+    boto3
+    cloudscraper 
+    js2py
+    ipython
